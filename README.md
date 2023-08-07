@@ -1,4 +1,6 @@
-# main.py
+# Function Words
+
+## main.py
 
 ## Introduction
 This code in python tests function word context independence by training an SVM model to classify them in different text types. It randomly selects texts, creates a dictionary and converts the texts into bag-of-words vectors. It trains two SVM models, one using word counts and the other using the training data, and evaluates their performance on both training and test datasets. The results are stored in a dictionary for each iteration.
