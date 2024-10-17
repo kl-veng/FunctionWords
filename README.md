@@ -1,4 +1,5 @@
 # Function Words
+This repository accompanies the paper Klára Venglařová, Vladimír Matlach, Beyond content: discriminatory power of function words in text type classification, Digital Scholarship in the Humanities, Volume 39, Issue 2, June 2024, Pages 765–789, https://doi.org/10.1093/llc/fqae013. The code was authored by both authors of the paper.
 
 ## main.py
 
